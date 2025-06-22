@@ -8,11 +8,10 @@ Entusiasta em programação, atualmente focado em C# .net para projetos pessoais
 <div>
   <a href="https://github.com/FabioRRos">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FabioRRos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioRRos&layout=compact&langs_count=12theme=dracula"/>
   </div>
 
  <div style="display: inline_block"><br>
-  <img align = "center" alt="Fabio-Csharp" height = "30" width="40" src = src=" https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" >
+  <img align="center" alt="Fabio-Csharp" height = "30" width="40" src = src=" https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" >
 </div>
 
 </div>
