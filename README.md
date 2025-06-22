@@ -12,9 +12,8 @@ Entusiasta em programação, atualmente focado em C# .net para projetos pessoais
 
  <div style="display: inline_block"><br>
   <img align="center" alt="Fabio-Csharp" height = "30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
+   <img align="center" alt="Fabio-Csharp" height = "30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg">
+   <img align="center" alt="Fabio-Csharp" height = "30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"
 </div>
 
 </div>
-
-
-
