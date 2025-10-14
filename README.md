@@ -1,4 +1,4 @@
-<h2 align="center">Olá a todos! 👋</h2> <p align="center"> Meu nome é <strong>Fabio Ros</strong>, formado em Processos Gerenciais, com MBA em Gestão de Projetos, certificações como PSPO I (Scrum.org) e Black Belt em Six Sigma. Atualmente, curso engenharia de software para me comunicar de forma mais eficiente com os times de desenvolvimento nos projetos que lidero. </p> <p align="center"> Sou entusiasta de tecnologia e programação, com foco atual em <strong>C# e .NET</strong> para projetos pessoais e para ampliar minha capacidade de entregar valor em produtos e soluções tecnológicas. </p>
+<h2 align="center">Olá a todos! 👋</h2> <p align="center"> Meu nome é <strong>Fabio Ros</strong>, formado em Processos Gerenciais, com MBA em Gestão de Projetos, certificações como PSPO I (Scrum.org) e Black Belt em Six Sigma. Atualmente, curso engenharia de software para me comunicar de forma mais eficiente com os times de desenvolvimento nos projetos que lidero. </p> <p align="center"> Sou entusiasta de tecnologia e programação, com foco atual em <strong>C#</strong> mas também flertando com <strong>Golang</strong>para projetos pessoais e para ampliar minha capacidade de entregar valor em produtos e soluções tecnológicas. </p>
 
 ###
 
@@ -20,10 +20,13 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
   <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="golang logo" />
+  <img width="15" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" height="40" alt="github logo" />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo" />
 </p>
+
 
 
 
